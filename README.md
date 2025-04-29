@@ -1,0 +1,1 @@
+# newifi3-d2-openwrt1
